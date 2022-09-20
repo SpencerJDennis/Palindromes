@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj": {}
+    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\Palindromes.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj": {
+    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\Palindromes.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\Palindromes.Tests.csproj",
         "projectName": "Palindromes.Tests",
-        "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj",
+        "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\Palindromes.Tests.csproj",
         "packagesPath": "C:\\Users\\Skylan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\obj\\",
+        "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Skylan\\AppData\\Roaming\\NuGet\\NuGet.Config"

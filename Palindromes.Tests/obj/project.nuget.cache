@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxcF7k0HBlC+3oBo934NRXRKvg6Jlj5SElOUwWPPPUYcnnXiIcHUallVfsaCjwNGYoVlM7n+q5Gnwkgj5DsfGw==",
+  "dgSpecHash": "hGWvxhgUEowCAegYOL4OdTCguPWLjkobKvu8pTIq4r7XcLpV29rerXG7jUQyLHsl5aJztTtyqFYsI7EhPA732g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes.Tests\\Palindromes.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Skylan\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Skylan\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",
