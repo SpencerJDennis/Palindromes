@@ -1,0 +1,16 @@
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.csproj.AssemblyReference.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.exe
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.dev.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\ref\Palindromes.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.pdb
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.genruntimeconfig.cache
