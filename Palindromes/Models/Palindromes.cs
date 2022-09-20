@@ -1,4 +1,5 @@
 
+
 using System.Runtime.InteropServices.ComTypes;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
@@ -22,13 +23,8 @@ namespace Palindromes
     {
       Console.WriteLine("Please input a word:");
       string input = Console.ReadLine();
-      Console.WriteLine(input + input.GetType());
       Palindromes myPalindromes = new Palindromes(input);
-      Console.WriteLine(myPalindromes.MyString + " " + myPalindromes.GetType());
-      string[] inputAsArray = input.Split();
-      foreach (string element in inputAsArray){
-        Console.WriteLine(element);
-      }
+
     }
 
     public Palindromes(string input)
@@ -36,10 +32,11 @@ namespace Palindromes
       MyString = input;
     }
 
+  //get rid of
     public Array StringToArray()
     {
       string toConvert = MyString;
-      string[] array = toConvert.Split("");
+      char[] array = toConvert.ToCharArray();
       return array;
     }
 

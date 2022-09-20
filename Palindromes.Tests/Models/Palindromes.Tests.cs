@@ -13,8 +13,8 @@ namespace Palindromes.Tests
     {
       //testing code will go here
       Palindromes myPalindrome = new Palindromes("array");
-      string[] array = new string[] {"a", "r", "r", "a", "y"};
-      Assert.AreEqual(myPalindrome.StringToArray(), array);
+      char[] array = new char[] {'a', 'r', 'r', 'a', 'y'};
+      CollectionAssert.AreEqual(myPalindrome.StringToArray(), array);
     }
   }
 }
