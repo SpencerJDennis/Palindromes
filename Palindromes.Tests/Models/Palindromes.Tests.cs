@@ -9,12 +9,21 @@ namespace Palindromes.Tests
   public class PalindromesTests
   {
     [TestMethod]
-    public void StringToArray_StringToArray_Array()
+    public void StringToArray_StringToArray_array()
     {
       //testing code will go here
       Palindromes myPalindrome = new Palindromes("array");
       char[] array = new char[] {'a', 'r', 'r', 'a', 'y'};
-      CollectionAssert.AreEqual(myPalindrome.StringToArray(), array);
+      CollectionAssert.AreEqual(array, myPalindrome.StringToArray());
+
     }
+
+    public void FlipTheArray_FlipsTheArray_yarra()
+    {
+      Palindromes myPalindrome = new Palindromes("array");
+      char[] yarra = new char[] {'y', 'a', 'r', 'r', 'a'};
+      CollectionAssert.AreEqual(yarra, myPalindrome.FlipTheArray());
+    }
+
   }
 }

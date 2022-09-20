@@ -6708,11 +6708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes.Tests\\Palindromes.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj",
       "projectName": "Palindromes.Tests",
-      "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes.Tests\\Palindromes.Tests.csproj",
+      "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\Palindromes.Tests.csproj",
       "packagesPath": "C:\\Users\\Skylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\palindromes.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Skylan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6727,8 +6727,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj": {
-              "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj"
+            "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj": {
+              "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj"
             }
           }
         }
