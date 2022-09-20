@@ -32,12 +32,12 @@ namespace Palindromes
       string input = Console.ReadLine();
       Palindromes myPalindromes = new Palindromes(input.ToLower());
       char[] myPalindromeArray = myPalindromes.StringToArray();
-      List<char> flipped = Palindromes.FlipTheArray(ref myPalindromeArray);
+      List<char> flipped = Palindromes.FlipTheArray(myPalindromeArray);
       for(int i=0;i<flipped.Count;i++)
       {
         Console.WriteLine(flipped[i]);
       }
-      bool result = myPalindromes.IsPalindrome(ref myPalindromeArray);
+      bool result = myPalindromes.IsPalindrome(myPalindromeArray);
       Console.WriteLine(result);
     }
 
@@ -54,7 +54,7 @@ namespace Palindromes
       return array;
     }
 
-    public static List<char> FlipTheArray(ref char[] array)
+    public static List<char> FlipTheArray( char[] array)
     {
       // char[] arrayFlip = new char[array.Length];
       // arrayFlip = array;
@@ -69,11 +69,10 @@ namespace Palindromes
       return flippedList;
     }
 
-    public bool IsPalindrome(ref char[] array)
+    public bool IsPalindrome( char[] array)
     {
-      
       List<char> arrayList = array.ToList();
-      List<char> flipped = Palindromes.FlipTheArray(ref array);
+      List<char> flipped = Palindromes.FlipTheArray(array);
 
       for(int i=0;i<arrayList.Count;i++)
       {
@@ -84,7 +83,7 @@ namespace Palindromes
         Console.WriteLine(flipped[i]);
       }
 
-    return arrayList.SequenceEqual(flipped);
+      return arrayList.SequenceEqual(flipped);
     }
   }
 }

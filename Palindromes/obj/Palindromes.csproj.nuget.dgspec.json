@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj": {}
+    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj": {
+    "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj",
+        "projectUniqueName": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj",
         "projectName": "Palindromes",
-        "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\Palindromes.csproj",
+        "projectPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\Palindromes.csproj",
         "packagesPath": "C:\\Users\\Skylan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.solution\\Palindromes\\obj\\",
+        "outputPath": "C:\\Users\\Skylan\\Desktop\\Epicodus\\Projects\\csharpdotnet\\Palindromes.Solution\\Palindromes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Skylan\\AppData\\Roaming\\NuGet\\NuGet.Config"
